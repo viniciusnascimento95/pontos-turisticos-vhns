@@ -1,4 +1,4 @@
-api_virtual
 *.sqlite3
 *pyc
 *.idea
+*.env
